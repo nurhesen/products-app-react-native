@@ -1,6 +1,6 @@
 # NativeBase Expo Template
 
-The official NativeBase template for [Expo](https://docs.expo.io/)
+Expo template products page
 
 ## Usage
 
